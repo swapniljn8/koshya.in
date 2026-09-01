@@ -9,19 +9,19 @@ const occasions = [
 ];
 const tiers = [
   [
-    "prakash",
-    "Prakash",
+    "Umang",
+    "Umang",
     "From ₹499 / box",
     "Diyas, dry fruits, and a handwritten note — the essential festive gesture.",
   ],
   [
-    "utsav",
+    "Utsav",
     "Utsav",
     "From ₹1,200 / box",
     "A fuller celebration set with premium sweets, decor, and Koshya's signature seal.",
   ],
   [
-    "shubh",
+    "",
     "Shubh Labh",
     "From ₹2,500 / box",
     "The leadership hamper — artisanal, boxed for prosperity, built for lasting impressions.",

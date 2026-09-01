@@ -16,4 +16,7 @@ npm run build
 npm run preview
 ```
 
+## Install gh-pages to run vite project on the github pages
+npm i ghpages
+
 Deploy the generated `dist` directory. The custom-domain configuration is copied from `public/CNAME` into the build automatically.
